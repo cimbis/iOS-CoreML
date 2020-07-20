@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea94b3b-49c5-4ada-b63b-6101c5864524" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_00008030-001A48D01E32802E" />
+  <component name="ProjectId" id="1dqyj8k8lfAJMdhVSpBzbkXw9CQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="HealthySnacks" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Snacks.xcodeproj" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HealthySnacks" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Snacks" TARGET_NAME="HealthySnacks" CONFIG_NAME="Debug" SCHEME_NAME="HealthySnacks" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Snacks" RUN_TARGET_NAME="HealthySnacks" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea94b3b-49c5-4ada-b63b-6101c5864524" name="Default Changelist" comment="" />
+      <created>1593167049825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593167049825</updated>
+      <workItem from="1593167051180" duration="11870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593169625304">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="551" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1593169625304" />
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom" timestamp="1593262012220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012220" />
+    <state width="1638" height="279" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060864" />
+    <state width="1710" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1593167415717" />
+    <state width="1638" height="279" key="GridCell.Tab.0.center" timestamp="1593262012219">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012219" />
+    <state width="1638" height="279" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060863" />
+    <state width="1710" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1593167415717" />
+    <state width="1638" height="279" key="GridCell.Tab.0.left" timestamp="1593262012219">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012219" />
+    <state width="1638" height="279" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060863" />
+    <state width="1710" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1593167415716" />
+    <state width="1638" height="279" key="GridCell.Tab.0.right" timestamp="1593262012220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012220" />
+    <state width="1638" height="279" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060864" />
+    <state width="1710" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1593167415717" />
+    <state width="1638" height="279" key="GridCell.Tab.1.bottom" timestamp="1593262012221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012221" />
+    <state width="1638" height="279" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060797" />
+    <state width="1638" height="279" key="GridCell.Tab.1.center" timestamp="1593262012221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012221" />
+    <state width="1638" height="279" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060796" />
+    <state width="1638" height="279" key="GridCell.Tab.1.left" timestamp="1593262012220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012220" />
+    <state width="1638" height="279" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060796" />
+    <state width="1638" height="279" key="GridCell.Tab.1.right" timestamp="1593262012221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="279" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593262012221" />
+    <state width="1638" height="279" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593179060797" />
+    <state x="704" y="200" key="SettingsEditor" timestamp="1595242997836">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="462" y="151" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1594637231373" />
+    <state x="704" y="200" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1595242997836" />
+    <state x="546" y="367" width="660" height="729" key="find.popup" timestamp="1595246433967">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="546" y="367" width="660" height="729" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1595246433967" />
+    <state x="541" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1595249412807">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="541" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1595249412807" />
+  </component>
+</project>
